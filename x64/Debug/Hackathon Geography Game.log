@@ -1,2 +1,3 @@
-﻿  Outline_Country.cpp
+﻿  main.cpp
+C:\Projects\Hackathon Geography Project\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Hackathon Geography Game.vcxproj -> C:\Projects\Hackathon Geography Project\x64\Debug\Hackathon Geography Game.exe
